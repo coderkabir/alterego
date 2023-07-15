@@ -1,62 +1,16 @@
 
 TITLE: 
-Education - 100% Fully Responsive Free HTML5 Bootstrap Template
+Education - alterego learning copyrights reserved
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by  Eppala Yogeswar Reddy , CHIRASANI SRI GOWTHAM REDDY and sourodeep kabiraj(Team and technical lead)
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+www.alteregolearning.co.in
 
 
 CREDITS:
 
-Bootstrap
-http://getbootstrap.com/
+alterego learning 
 
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Google Map
-http://maps.google.com/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoint
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-Flexslider
-http://flexslider.woothemes.com/
-
-jQuery countTo
-http://www.owlcarousel.owlgraphic.com/
-
-Magnific Popup
-http://dimsemenov.com/plugins/magnific-popup/
-
-Demo Images:
-http://unsplash.com
+abhay valsangkar
 
